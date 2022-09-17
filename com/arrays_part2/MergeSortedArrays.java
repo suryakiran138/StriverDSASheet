@@ -1,4 +1,4 @@
-package com.java_part2;
+package com.arrays_part2;
 
 // https://leetcode.com/problems/merge-sorted-array/
 

@@ -1,9 +1,9 @@
-package com.java_part2;
+package com.arrays_part2;
 import java.util.*;
 
 // https://www.interviewbit.com/problems/repeat-and-missing-number-array/
 
-public class RepeatAndMisiingNumber {
+public class RepeatAndMissingNumber {
     public ArrayList<Integer> repeatedNumber(final List<Integer> A) {
         int len = A.size();
         int[] freq = new int[A.size()+1];

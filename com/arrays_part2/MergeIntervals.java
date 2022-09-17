@@ -1,4 +1,4 @@
-package com.java_part2;
+package com.arrays_part2;
 import java.util.*;
 
 // https://leetcode.com/problems/merge-intervals/
